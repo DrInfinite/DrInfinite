@@ -15,10 +15,11 @@
 - 👯 I’m looking to collaborate on personal and professional projects
 - 🤔 I’m looking for help with Back-End Development
 - 💬 I'm open to mentoring aspiring developers
-- 📫 How to reach me: work.naparajith@gmail.com
-- 🔗 How to connect with me: [LinkedIn]()
+- 📫 How to reach me: [Mail](work.naparajith@gmail.com)
+- 🔗 How to connect with me: [LinkedIn](https://www.linkedin.com/in/naparajith/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verify!
+- 🏢 Know More: [Tap this Link!](https://naparajith.taplink.ws/)
 
 <a aligh="left">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=DrInfinite&show_icons=true&theme=transparent" />
