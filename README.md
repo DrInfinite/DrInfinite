@@ -1,9 +1,6 @@
 <div class="Introduction" align="center"> 
   <h1>Hi, I'm Naps <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
   </h1>
-  <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=DrInfinite&color=F19101" alt="amsavarthan" />
-</p>
 </div>
 
 <img src="https://media.licdn.com/dms/image/D5616AQHg9xrIYpU4FA/profile-displaybackgroundimage-shrink_350_1400/0/1682874576763?e=1688601600&v=beta&t=ERj_uPyYEDqj26WR7t6VZGX9OOwnElB9JnDsSpEwyZ0"/>
