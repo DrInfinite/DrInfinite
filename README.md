@@ -9,8 +9,8 @@
 <!--
 **DrInfinite/DrInfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Hi < Mom />!
-
+## class HelloWorld {
+# public static void main ( String[] args ) {
 - 🔭 I’m currently working on Project Hermes
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on personal and professional projects
@@ -21,6 +21,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verify!
 - 🏢 Know More: [Tap this Link!](https://naparajith.taplink.ws/)
+# }
+## }
 
 <h2> Technologies </h2> 
 
