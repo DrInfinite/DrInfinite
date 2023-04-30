@@ -1,9 +1,15 @@
-### Hi there 👋
+<div class="Introduction" align="center"> 
+  <h1>Hi, I'm Naps <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
+  </h1>
+  <br>
+</div>
+
+<h1><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3EA9F5&lines=I'm+a+UI/UX+Designer;I'm+a+Programmer;I'm+a+Full+Stack+Developer;I'm+an+Engineer!!;" height="60" weight="60"> </h1>
 
 <!--
 **DrInfinite/DrInfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+## Hi <Mom />!
 
 - 🔭 I’m currently working on Project Hermes
 - 🌱 I’m currently learning Next.js
@@ -14,6 +20,8 @@ Here are some ideas to get you started:
 - 🔗 How to connect with me: [LinkedIn]()
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verify!
+
+<br>
 
 <a aligh="left">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=DrInfinite&show_icons=true&theme=transparent" />
