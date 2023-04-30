@@ -3,6 +3,7 @@
   </h1>
 </div>
 
+<img src="https://media.licdn.com/dms/image/D5616AQHg9xrIYpU4FA/profile-displaybackgroundimage-shrink_350_1400/0/1682874576763?e=1688601600&v=beta&t=ERj_uPyYEDqj26WR7t6VZGX9OOwnElB9JnDsSpEwyZ0"/>
 <h1><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3EA9F5&lines=I'm+a+UI/UX+Designer;I'm+a+Programmer;I'm+a+Full+Stack+Developer;I'm+an+Engineer!!;" height="60" weight="60"> </h1>
 
 <!--
