@@ -24,10 +24,6 @@
 ### }
 ## }
 
-<h2> Technologies </h2> 
-
-
-
 <h2> My GitHub Stats </h2>
 
 <div class="stats" align="center"> 
