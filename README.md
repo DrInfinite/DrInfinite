@@ -29,7 +29,7 @@
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent" />
 </a>
 
-<a href="https://DrInfinite.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent](https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
+<a href="https://DrInfinite.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent](https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=onedark&column=7)" width="%100" height="150px"/></a>
 <a href="https://DrInfinite.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=transparent&column=7&no-frame=true"></a>
 </div>
 
