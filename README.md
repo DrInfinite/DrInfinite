@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verufy!
 
-[![Naparajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrInfinite)](https://github.com/DrInfinite/github-readme-stats)
+[![Naparajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrInfinite&layout=compact&theme=react&bg_color=20232a&hide_border=true)](https://github.com/DrInfinite/github-readme-stats)
