@@ -21,9 +21,21 @@
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verify!
 - 🏢 Know More: [Tap this Link!](https://naparajith.taplink.ws/)
 
+<h2> My GitHub Stats </h2>
+
+<div class="stats" align="center"> 
 <a aligh="left">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=DrInfinite&show_icons=true&theme=transparent" />
   <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent" />
 </a>
-<!-- 
-![Naparajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrInfinite&show_icons=true&theme=transparent) -->
+
+<a href="https://DrInfinite.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent](https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
+<a href="https://DrInfinite.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=transparent&column=7&no-frame=true"></a>
+</div>
+
+<div align="center">
+<p>Visitors :</p>
+<p>
+    <img src="https://profile-counter.glitch.me/DrInfinite/count.svg"/>
+</p>
+</div>
