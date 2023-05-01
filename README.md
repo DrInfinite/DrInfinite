@@ -35,8 +35,8 @@
 <div class="stats" align="center">
   <a aligh="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrInfinite&show_icons=true&include_all_commits=true&theme=transparent" alt="Anurag's github stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrInfinite&layout=compact&theme=transparent" />
-    <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent" />
   </a>
 
   <a href="https://DrInfinite.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent](https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=onedark&column=7)" width="%100" height="150px"/></a>
