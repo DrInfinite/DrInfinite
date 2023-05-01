@@ -2,6 +2,7 @@
   <h1>Hi, I'm Naps <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
   </h1>
   <h3 align="center">A Full Stack Developer and an Aspiring SDE from भारत &#127470;&#127475;</h3>
+  ![](https://komarev.com/ghpvc/?username=DrInfinite)
 </div>
 
 <img src="https://media.licdn.com/dms/image/D5616AQHg9xrIYpU4FA/profile-displaybackgroundimage-shrink_350_1400/0/1682874576763?e=1688601600&v=beta&t=ERj_uPyYEDqj26WR7t6VZGX9OOwnElB9JnDsSpEwyZ0"/>
@@ -34,9 +35,9 @@
 
 <div class="stats" align="center">
   <a aligh="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrInfinite&show_icons=true&include_all_commits=true&theme=transparent" alt="Anurag's github stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrInfinite&layout=compact&theme=transparent" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrInfinite&show_icons=true&include_all_commits=true&theme=transparent" alt="Naparajith's github stats" /> <br><hr width="470px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrInfinite&theme=transparent" /> <br><hr width="300px">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent" /> <br><hr width="500px">
   </a>
 
   <a href="https://DrInfinite.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent](https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=onedark&column=7)" width="%100" height="150px"/></a>
