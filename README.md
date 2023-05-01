@@ -2,7 +2,9 @@
   <h1>Hi, I'm Naps <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
   </h1>
   <h3 align="center">A Full Stack Developer and an Aspiring SDE from भारत &#127470;&#127475;</h3>
-  ![](https://komarev.com/ghpvc/?username=DrInfinite)
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=DrInfinite&color=3ddc84" alt="DrInfinite" />
+  </p>
 </div>
 
 <img src="https://media.licdn.com/dms/image/D5616AQHg9xrIYpU4FA/profile-displaybackgroundimage-shrink_350_1400/0/1682874576763?e=1688601600&v=beta&t=ERj_uPyYEDqj26WR7t6VZGX9OOwnElB9JnDsSpEwyZ0"/>
@@ -43,11 +45,4 @@
   <a href="https://DrInfinite.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent](https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=onedark&column=7)" width="%100" height="150px"/></a>
   <a href="https://DrInfinite.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=transparent&column=7&no-frame=true"></a>
 
-</div>
-
-<div align="center">
-<p>Visitors :</p>
-<p>
-    <img src="https://profile-counter.glitch.me/DrInfinite/count.svg"/>
-</p>
 </div>
