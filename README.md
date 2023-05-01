@@ -1,4 +1,4 @@
-<div class="Introduction" align="center"> 
+<div class="Introduction" align="center">
   <h1>Hi, I'm Naps <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
   </h1>
   <h3 align="center">A Full Stack Developer and an Aspiring SDE from भारत &#127470;&#127475;</h3>
@@ -12,7 +12,9 @@
 **DrInfinite/DrInfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ## class HelloWorld {
+
 ### public static void main ( String[] args ) {
+
 - 🔭 I’m currently working on Project Hermes
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on personal and professional projects
@@ -23,19 +25,23 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verify!
 - 🏢 Know More: [Tap this Link!](https://naparajith.taplink.ws/)
+
 ### }
+
 ## }
 
 <h2> My GitHub Stats </h2>
 
-<div class="stats" align="center"> 
-<a aligh="left">
-  | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true" /></a> |
-  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent" />
-</a>
+<div class="stats" align="center">
+  <a aligh="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrInfinite&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrInfinite&layout=compact&theme=transparent&hide_border=true" />
+    <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent" />
+  </a>
 
-<a href="https://DrInfinite.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent](https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=onedark&column=7)" width="%100" height="150px"/></a>
-<a href="https://DrInfinite.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=transparent&column=7&no-frame=true"></a>
+  <a href="https://DrInfinite.ga"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=DrInfinite&theme=transparent](https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=onedark&column=7)" width="%100" height="150px"/></a>
+  <a href="https://DrInfinite.ga"><img align="center" src="https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=transparent&column=7&no-frame=true"></a>
+
 </div>
 
 <div align="center">
