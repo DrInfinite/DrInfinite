@@ -1,7 +1,7 @@
 <div class="Introduction" align="center">
   <h1>Hi, I'm Naps <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
   </h1>
-  <h3 align="center">A Full Stack Developer and an Aspiring SDE from भारत &#127470;&#127475;</h3>
+  <h3 align="center">A Startup Founder, Open-Source Contributer, Full Stack Developer, Playground Tester and an Aspiring SDE from भारत &#127470;&#127475;</h3>
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=DrInfinite&color=3ddc84" alt="DrInfinite" />
   </p>
