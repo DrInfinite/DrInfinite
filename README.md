@@ -27,7 +27,7 @@
 - 🔗 How to connect with me: [LinkedIn](https://www.linkedin.com/in/naparajith/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verify!
-- 🏢 Know More: [Tap this Link!](https://naparajith.taplink.ws/)
+- 🏢 Know More: [Tap this Link!](https://naparajith.vercel.app/links)
 
 ### }
 
