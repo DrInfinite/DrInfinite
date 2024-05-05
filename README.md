@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on personal and professional projects
 - 🤔 I’m looking for help with Back-End Development
 - 💬 I'm open to mentoring aspiring developers
-- 📫 How to reach me: work.naparajith@gmail.com
+- 📫 How to reach me: naparajith@duck.com
 - 🔗 How to connect with me: [LinkedIn](https://www.linkedin.com/in/naparajith/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verify!
