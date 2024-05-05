@@ -9,7 +9,7 @@
 
 <img src="[https://media.licdn.com/dms/image/D5616AQGsBVseclDFBg/profile-displaybackgroundimage-shrink_350_1400/0/1684038667931?e=1689811200&v=beta&t=UU4XllFuVB-rB3iytoGZtRuEitAqjw1diQF1HIcJAkA](https://media.licdn.com/dms/image/D5616AQEO_dlAK44kOQ/profile-displaybackgroundimage-shrink_350_1400/0/1685283586885?e=1697068800&v=beta&t=DArGxY5coZJD-gGfyTdDrsHM1mDDtiei2nDWMaBA5lM)"/>
 
-<h1><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=F19101&lines=I'm+a+UI/UX+Designer+🖼️;I'm+a+Programmer+👨‍💻;I'm+a+Full+Stack+Developer+⚛️;I'm+a+Software+Development+Engineer+🖥️;" height="60" weight="60"> </h1>
+<h1><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=F19101&lines=I'm+a+UI/UX+Designer+🖼️;I'm+a+Programmer+👨‍💻;I'm+a+Full+Stack+Developer+⚛️;I'm+a+Software+Development+Engineer+🖥️;I'm+a+Quality+Assurance+Engineer+🔧;" height="60" weight="60"> </h1>
 
 <!--
 **DrInfinite/DrInfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
