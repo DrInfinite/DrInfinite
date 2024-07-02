@@ -1,7 +1,7 @@
 <div class="Introduction" align="center">
   <h1>Hi, I'm Naps <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
   </h1>
-  <h3 align="center">An, Open-Source Contributor, Full Stack Engineer, Playground Tester and an Aspiring SDE from भारत &#127470;&#127475;</h3>
+  <h3 align="center">A Software Quality Engineer from भारत &#127470;&#127475;</h3>
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=DrInfinite&color=3ddc84" alt="DrInfinite" />
   </p>
@@ -18,8 +18,8 @@
 
 ### public static void main ( String[] args ) {
 
-- 🔭 I’m currently working on Project Hermes
-- 🌱 I’m currently learning Next.js
+- 🔭 I’m currently working on The MUN Company
+- 🌱 I’m currently learning Astro
 - 👯 I’m looking to collaborate on personal and professional projects
 - 🤔 I’m looking for help with Back-End Development
 - 💬 I'm open to mentoring aspiring developers
