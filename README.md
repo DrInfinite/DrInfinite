@@ -14,12 +14,10 @@
 <!--
 **DrInfinite/DrInfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## class HelloWorld {
-
-### public static void main ( String[] args ) {
+## ```go func main() {```
 
 - 🔭 I’m currently working on The MUN Company
-- 🌱 I’m currently learning Astro
+- 🌱 I’m currently learning Data Science and Data Analysis
 - 👯 I’m looking to collaborate on personal and professional projects
 - 🤔 I’m looking for help with Back-End Development
 - 💬 I'm open to mentoring aspiring developers
@@ -29,9 +27,7 @@
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verify!
 - 🏢 Know More: [Tap this Link!](https://naparajith.vercel.app/links)
 
-### }
-
-## }
+## ```go }```
 
 <h2> My GitHub Stats </h2>
 
