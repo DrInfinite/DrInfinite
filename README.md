@@ -14,7 +14,7 @@
 <!--
 **DrInfinite/DrInfinite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## ```go func main() {```
+### ```go func main() {```
 
 - 🔭 I’m currently working on The MUN Company
 - 🌱 I’m currently learning Data Science and Data Analysis
@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I'm the only Naparajith in the world. You can Google my name to verify!
 - 🏢 Know More: [Tap this Link!](https://naparajith.vercel.app/links)
 
-## ```go }```
+### ```go }```
 
 <h2> My GitHub Stats </h2>
 
