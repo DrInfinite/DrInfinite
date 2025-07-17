@@ -24,8 +24,6 @@
 * ⚡ Fun fact: *I'm the only Naparajith in the world.* (Seriously, Google me!)
 * 🏢 Know More: [Quick View | Naparajith](https://www.naparajith.in/quick-view)
 
-![](https://hit.yhype.me/github/profile?account_id=74095696)
-
 ---
 
 ## 📊 My GitHub Stats
@@ -44,3 +42,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=DrInfinite&theme=transparent&column=7&no-frame=true" alt="GitHub Trophies" width="90%" />
 
 </div>
+
+![](https://hit.yhype.me/github/profile?account_id=74095696)
